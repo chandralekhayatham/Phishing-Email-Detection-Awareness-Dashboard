@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+phishing_dashboard.db
+.pytest_cache/
+ml/*.joblib

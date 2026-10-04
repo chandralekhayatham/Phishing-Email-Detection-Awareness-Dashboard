@@ -1,0 +1,601 @@
+email_id,sender,sender_domain,subject,body,urls,attachment_name,label
+1,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+2,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+3,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+4,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+5,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+6,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+7,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+8,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+9,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+10,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+11,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+12,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+13,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+14,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+15,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+16,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+17,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+18,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+19,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+20,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+21,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+22,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+23,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+24,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+25,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+26,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+27,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+28,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+29,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+30,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+31,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+32,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+33,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+34,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+35,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+36,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+37,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+38,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+39,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+40,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+41,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+42,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+43,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+44,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+45,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+46,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+47,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+48,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+49,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+50,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+51,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+52,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+53,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+54,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+55,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+56,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+57,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+58,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+59,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+60,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+61,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+62,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+63,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+64,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+65,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+66,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+67,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+68,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+69,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+70,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+71,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+72,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+73,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+74,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+75,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+76,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+77,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+78,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+79,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+80,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+81,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+82,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+83,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+84,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+85,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+86,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+87,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+88,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+89,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+90,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+91,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+92,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+93,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+94,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+95,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+96,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+97,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+98,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+99,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+100,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+101,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+102,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+103,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+104,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+105,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+106,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+107,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+108,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+109,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+110,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+111,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+112,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+113,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+114,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+115,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+116,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+117,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+118,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+119,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+120,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+121,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+122,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+123,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+124,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+125,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+126,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+127,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+128,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+129,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+130,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+131,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+132,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+133,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+134,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+135,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+136,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+137,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+138,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+139,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+140,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+141,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+142,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+143,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+144,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+145,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+146,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+147,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+148,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+149,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+150,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+151,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+152,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+153,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+154,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+155,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+156,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+157,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+158,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+159,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+160,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+161,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+162,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+163,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+164,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+165,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+166,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+167,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+168,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+169,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+170,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+171,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+172,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+173,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+174,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+175,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+176,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+177,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+178,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+179,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+180,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+181,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+182,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+183,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+184,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+185,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+186,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+187,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+188,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+189,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+190,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+191,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+192,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+193,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+194,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+195,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+196,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+197,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+198,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+199,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+200,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+201,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+202,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+203,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+204,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+205,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+206,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+207,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+208,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+209,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+210,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+211,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+212,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+213,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+214,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+215,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+216,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+217,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+218,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+219,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+220,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+221,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+222,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+223,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+224,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+225,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+226,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+227,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+228,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+229,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+230,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+231,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+232,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+233,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+234,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+235,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+236,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+237,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+238,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+239,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+240,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+241,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+242,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+243,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+244,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+245,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+246,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+247,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+248,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+249,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+250,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+251,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+252,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+253,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+254,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+255,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+256,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+257,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+258,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+259,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+260,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+261,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+262,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+263,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+264,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+265,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+266,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+267,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+268,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+269,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+270,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+271,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+272,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+273,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+274,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+275,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+276,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+277,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+278,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+279,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+280,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+281,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+282,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+283,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+284,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+285,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+286,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+287,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+288,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+289,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+290,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+291,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+292,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+293,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+294,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+295,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+296,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+297,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+298,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+299,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+300,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+301,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+302,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+303,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+304,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+305,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+306,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+307,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+308,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+309,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+310,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+311,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+312,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+313,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+314,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+315,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+316,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+317,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+318,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+319,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+320,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+321,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+322,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+323,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+324,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+325,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+326,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+327,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+328,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+329,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+330,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+331,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+332,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+333,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+334,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+335,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+336,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+337,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+338,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+339,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+340,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+341,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+342,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+343,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+344,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+345,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+346,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+347,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+348,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+349,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+350,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+351,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+352,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+353,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+354,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+355,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+356,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+357,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+358,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+359,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+360,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+361,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+362,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+363,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+364,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+365,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+366,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+367,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+368,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+369,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+370,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+371,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+372,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+373,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+374,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+375,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+376,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+377,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+378,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+379,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+380,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+381,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+382,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+383,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+384,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+385,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+386,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+387,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+388,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+389,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+390,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+391,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+392,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+393,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+394,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+395,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+396,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+397,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+398,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+399,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+400,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+401,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+402,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+403,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+404,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+405,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+406,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+407,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+408,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+409,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+410,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+411,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+412,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+413,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+414,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+415,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+416,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+417,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+418,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+419,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+420,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+421,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+422,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+423,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+424,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+425,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+426,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+427,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+428,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+429,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+430,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+431,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+432,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+433,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+434,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+435,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+436,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+437,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+438,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+439,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+440,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+441,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+442,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+443,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+444,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+445,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+446,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+447,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+448,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+449,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+450,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+451,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+452,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+453,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+454,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+455,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+456,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+457,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+458,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+459,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+460,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+461,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+462,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+463,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+464,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+465,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+466,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+467,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+468,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+469,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+470,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+471,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+472,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+473,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+474,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+475,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+476,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+477,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+478,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+479,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+480,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+481,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+482,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+483,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+484,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+485,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+486,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+487,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+488,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+489,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+490,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+491,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+492,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+493,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+494,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+495,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+496,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+497,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+498,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+499,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+500,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+501,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+502,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+503,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+504,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+505,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+506,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+507,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+508,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+509,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+510,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+511,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+512,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+513,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+514,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+515,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+516,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+517,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+518,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+519,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+520,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+521,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+522,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+523,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+524,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+525,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+526,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+527,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+528,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+529,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+530,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+531,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+532,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+533,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+534,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+535,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+536,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+537,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+538,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+539,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+540,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+541,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+542,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+543,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+544,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+545,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+546,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+547,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+548,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+549,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+550,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+551,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+552,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+553,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+554,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+555,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+556,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+557,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+558,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+559,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+560,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+561,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+562,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+563,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+564,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+565,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+566,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+567,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+568,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+569,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+570,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+571,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+572,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+573,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+574,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,http://198.51.100.10/verify-account,,PHISHING
+575,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+576,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+577,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+578,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+579,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+580,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,http://198.51.100.10/verify-account,,PHISHING
+581,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+582,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+583,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+584,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+585,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+586,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+587,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+588,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
+589,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+590,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+591,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+592,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+593,training@example.org,example.org,Cybersecurity Workshop Reminder,"Hello student, this is a reminder about the cybersecurity workshop. Please check the official college portal for schedule details.",,,LEGITIMATE
+594,billing@invoice-check.invalid.test,invoice-check.invalid.test,Invoice Payment Required,Your invoice is overdue. Make payment immediately and verify your billing details.,,,PHISHING
+595,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+596,security-alert@account-check.invalid.test,account-check.invalid.test,URGENT: Verify Your Account Immediately,Urgent action required. Verify your account and confirm your password immediately or your account will be suspended.,,,PHISHING
+597,hr@example.com,example.com,HR Policy Update,"Hello team, the updated policy document is available in the internal portal. No action is required by email.",,,LEGITIMATE
+598,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,http://198.51.100.10/verify-account,,PHISHING
+599,news@example.net,example.net,Monthly Newsletter,Here is this month’s community newsletter with project and event updates.,,,LEGITIMATE
+600,reward@winner.invalid.test,winner.invalid.test,Congratulations You Have Won,You have won a reward. Confirm your personal details to claim your prize.,,,PHISHING
